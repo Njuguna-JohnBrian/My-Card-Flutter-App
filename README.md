@@ -1,7 +1,7 @@
 # micard
 
 A Flutter Project that Showcases my Skillset as Flutter Developer using the card widget.
-<p align="center"> <img src="jb.jpeg"/> </p>
+<p align="center"> <img src="app.jpeg"/> </p>
 
 ## Getting Started
 
